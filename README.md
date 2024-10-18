@@ -27,7 +27,7 @@ To filter files based on minimum size, use `--minsize=<size>` flag. The value
 of `<size>` must be in bytes.
 
 ```
-$ ./finddup --minsize=10 <test-file>
+$ ./finddup --minsize=10 <test-folder>
 ```
 This will ignore all files under 10 bytes.
 
