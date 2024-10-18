@@ -28,4 +28,3 @@ Do you want to delete them (y/n)? y
 Choose the original file number (1 - 2): 1
 ```
 
-I'm yet to add support to filter files based on size.
